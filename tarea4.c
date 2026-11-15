@@ -27,12 +27,8 @@ void *contar(void *arg)
 {
     int id = *(int *)arg;
 
-    /* Solo cuenta hasta FIN_SECCION (6000) */
     for (int i = 1; i <= FIN_SECCION; i++) {
 
-        /* Al llegar a 4000, intenta entrar a la sección crítica.
-         * Si el otro hilo ya está dentro, se bloquea aquí
-         * hasta que el otro llegue a 6000 y haga sem_post(). */
         if (i == INICIO_SECCION) {
             escribir("[Hilo %d] Entrando a seccion critica (4000)\n", id);
             sem_wait(&sem_seccion_critica);
@@ -41,8 +37,6 @@ void *contar(void *arg)
 
         escribir("Hilo %d -> %d\n", id, i);
 
-        /* Al llegar a 6000, libera el semáforo para que el otro
-         * hilo pueda entrar a su sección crítica, y termina. */
         if (i == FIN_SECCION) {
             escribir("[Hilo %d] *** SALIENDO de seccion critica (6000) ***\n", id);
             sem_post(&sem_seccion_critica);
