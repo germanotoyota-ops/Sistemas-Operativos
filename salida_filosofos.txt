@@ -1,0 +1,161 @@
+=================================================
+   PROBLEMA DE LA CENA DE LOS FILÓSOFOS
+=================================================
+Filósofo 0 está PENSANDO...
+Filósofo 1 está PENSANDO...
+Filósofo 2 está PENSANDO...
+Filósofo 3 está PENSANDO...
+Filósofo 4 está PENSANDO...
+Filósofo 2 intenta tomar tenedor 2
+Filósofo 2 intenta tomar tenedor 3
+Filósofo 2 toma ambos tenedores [2, 3]
+Filósofo 2 está COMIENDO (ñam ñam)
+Filósofo 1 intenta tomar tenedor 1
+Filósofo 1 intenta tomar tenedor 2
+Filósofo 3 intenta tomar tenedor 3
+Filósofo 4 intenta tomar tenedor 0
+Filósofo 4 intenta tomar tenedor 4
+Filósofo 4 toma ambos tenedores [0, 4]
+Filósofo 4 está COMIENDO (ñam ñam)
+Filósofo 2 suelta tenedores [2, 3] y vuelve a pensar
+Filósofo 2 está PENSANDO...
+Filósofo 1 toma ambos tenedores [1, 2]
+Filósofo 1 está COMIENDO (ñam ñam)
+Filósofo 3 intenta tomar tenedor 4
+Filósofo 0 intenta tomar tenedor 0
+Filósofo 4 suelta tenedores [0, 4] y vuelve a pensar
+Filósofo 4 está PENSANDO...
+Filósofo 3 toma ambos tenedores [3, 4]
+Filósofo 3 está COMIENDO (ñam ñam)
+Filósofo 0 intenta tomar tenedor 1
+Filósofo 1 suelta tenedores [1, 2] y vuelve a pensar
+Filósofo 1 está PENSANDO...
+Filósofo 0 toma ambos tenedores [0, 1]
+Filósofo 0 está COMIENDO (ñam ñam)
+Filósofo 2 intenta tomar tenedor 2
+Filósofo 2 intenta tomar tenedor 3
+Filósofo 4 intenta tomar tenedor 0
+Filósofo 3 suelta tenedores [3, 4] y vuelve a pensar
+Filósofo 3 está PENSANDO...
+Filósofo 2 toma ambos tenedores [2, 3]
+Filósofo 2 está COMIENDO (ñam ñam)
+Filósofo 0 suelta tenedores [0, 1] y vuelve a pensar
+Filósofo 0 está PENSANDO...
+Filósofo 4 intenta tomar tenedor 4
+Filósofo 4 toma ambos tenedores [0, 4]
+Filósofo 4 está COMIENDO (ñam ñam)
+Filósofo 1 intenta tomar tenedor 1
+Filósofo 1 intenta tomar tenedor 2
+Filósofo 3 intenta tomar tenedor 3
+Filósofo 4 suelta tenedores [0, 4] y vuelve a pensar
+Filósofo 4 está PENSANDO...
+Filósofo 2 suelta tenedores [2, 3] y vuelve a pensar
+Filósofo 2 está PENSANDO...
+Filósofo 3 intenta tomar tenedor 4
+Filósofo 3 toma ambos tenedores [3, 4]
+Filósofo 3 está COMIENDO (ñam ñam)
+Filósofo 1 toma ambos tenedores [1, 2]
+Filósofo 1 está COMIENDO (ñam ñam)
+Filósofo 0 intenta tomar tenedor 0
+Filósofo 0 intenta tomar tenedor 1
+Filósofo 4 intenta tomar tenedor 0
+Filósofo 1 suelta tenedores [1, 2] y vuelve a pensar
+Filósofo 1 está PENSANDO...
+Filósofo 0 toma ambos tenedores [0, 1]
+Filósofo 0 está COMIENDO (ñam ñam)
+Filósofo 3 suelta tenedores [3, 4] y vuelve a pensar
+Filósofo 3 está PENSANDO...
+Filósofo 2 intenta tomar tenedor 2
+Filósofo 2 intenta tomar tenedor 3
+Filósofo 2 toma ambos tenedores [2, 3]
+Filósofo 2 está COMIENDO (ñam ñam)
+Filósofo 0 suelta tenedores [0, 1] y vuelve a pensar
+Filósofo 0 está PENSANDO...
+Filósofo 4 intenta tomar tenedor 4
+Filósofo 4 toma ambos tenedores [0, 4]
+Filósofo 4 está COMIENDO (ñam ñam)
+Filósofo 2 suelta tenedores [2, 3] y vuelve a pensar
+Filósofo 2 está PENSANDO...
+Filósofo 3 intenta tomar tenedor 3
+Filósofo 3 intenta tomar tenedor 4
+Filósofo 1 intenta tomar tenedor 1
+Filósofo 1 intenta tomar tenedor 2
+Filósofo 1 toma ambos tenedores [1, 2]
+Filósofo 1 está COMIENDO (ñam ñam)
+Filósofo 0 intenta tomar tenedor 0
+Filósofo 2 intenta tomar tenedor 2
+Filósofo 4 suelta tenedores [0, 4] y vuelve a pensar
+Filósofo 3 toma ambos tenedores [3, 4]
+Filósofo 3 está COMIENDO (ñam ñam)
+Filósofo 4 está PENSANDO...
+Filósofo 0 intenta tomar tenedor 1
+Filósofo 3 suelta tenedores [3, 4] y vuelve a pensar
+Filósofo 3 está PENSANDO...
+Filósofo 4 intenta tomar tenedor 0
+Filósofo 1 suelta tenedores [1, 2] y vuelve a pensar
+Filósofo 1 está PENSANDO...
+Filósofo 2 intenta tomar tenedor 3
+Filósofo 2 toma ambos tenedores [2, 3]
+Filósofo 2 está COMIENDO (ñam ñam)
+Filósofo 0 toma ambos tenedores [0, 1]
+Filósofo 0 está COMIENDO (ñam ñam)
+Filósofo 2 suelta tenedores [2, 3] y vuelve a pensar
+Filósofo 2 está PENSANDO...
+Filósofo 3 intenta tomar tenedor 3
+Filósofo 3 intenta tomar tenedor 4
+Filósofo 3 toma ambos tenedores [3, 4]
+Filósofo 3 está COMIENDO (ñam ñam)
+Filósofo 1 intenta tomar tenedor 1
+Filósofo 2 intenta tomar tenedor 2
+Filósofo 2 intenta tomar tenedor 3
+Filósofo 0 suelta tenedores [0, 1] y vuelve a pensar
+Filósofo 0 está PENSANDO...
+Filósofo 4 intenta tomar tenedor 4
+Filósofo 1 intenta tomar tenedor 2
+Filósofo 3 suelta tenedores [3, 4] y vuelve a pensar
+Filósofo 3 está PENSANDO...
+Filósofo 4 toma ambos tenedores [0, 4]
+Filósofo 4 está COMIENDO (ñam ñam)
+Filósofo 2 toma ambos tenedores [2, 3]
+Filósofo 2 está COMIENDO (ñam ñam)
+Filósofo 0 intenta tomar tenedor 0
+Filósofo 4 suelta tenedores [0, 4] y vuelve a pensar
+Filósofo 4 está PENSANDO...
+Filósofo 0 intenta tomar tenedor 1
+Filósofo 2 suelta tenedores [2, 3] y vuelve a pensar
+>>> Filósofo 2 TERMINÓ de comer (5 veces) <<<
+Filósofo 1 toma ambos tenedores [1, 2]
+Filósofo 1 está COMIENDO (ñam ñam)
+Filósofo 4 intenta tomar tenedor 0
+Filósofo 3 intenta tomar tenedor 3
+Filósofo 3 intenta tomar tenedor 4
+Filósofo 3 toma ambos tenedores [3, 4]
+Filósofo 3 está COMIENDO (ñam ñam)
+Filósofo 3 suelta tenedores [3, 4] y vuelve a pensar
+>>> Filósofo 3 TERMINÓ de comer (5 veces) <<<
+Filósofo 1 suelta tenedores [1, 2] y vuelve a pensar
+Filósofo 1 está PENSANDO...
+Filósofo 0 toma ambos tenedores [0, 1]
+Filósofo 0 está COMIENDO (ñam ñam)
+Filósofo 0 suelta tenedores [0, 1] y vuelve a pensar
+Filósofo 0 está PENSANDO...
+Filósofo 4 intenta tomar tenedor 4
+Filósofo 4 toma ambos tenedores [0, 4]
+Filósofo 4 está COMIENDO (ñam ñam)
+Filósofo 1 intenta tomar tenedor 1
+Filósofo 1 intenta tomar tenedor 2
+Filósofo 1 toma ambos tenedores [1, 2]
+Filósofo 1 está COMIENDO (ñam ñam)
+Filósofo 0 intenta tomar tenedor 0
+Filósofo 1 suelta tenedores [1, 2] y vuelve a pensar
+>>> Filósofo 1 TERMINÓ de comer (5 veces) <<<
+Filósofo 4 suelta tenedores [0, 4] y vuelve a pensar
+>>> Filósofo 4 TERMINÓ de comer (5 veces) <<<
+Filósofo 0 intenta tomar tenedor 1
+Filósofo 0 toma ambos tenedores [0, 1]
+Filósofo 0 está COMIENDO (ñam ñam)
+Filósofo 0 suelta tenedores [0, 1] y vuelve a pensar
+>>> Filósofo 0 TERMINÓ de comer (5 veces) <<<
+=================================================
+   TODOS LOS FILÓSOFOS TERMINARON
+=================================================
